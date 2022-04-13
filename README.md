@@ -1,1 +1,1 @@
-To convert a file from json to geojson formatt
+To convert a file from json to geojson format
